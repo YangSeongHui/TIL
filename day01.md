@@ -1,8 +1,8 @@
 # Git
 
 # 1. Git 초기 설정
-+git config --global user.name
-+git config --global user.email
++ git config --global user.name
++ git config --global user.email
 
 + 설정 확인
 git config --global --list
