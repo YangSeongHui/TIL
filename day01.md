@@ -49,13 +49,13 @@ git log --oneline
 + url 복사
 
 **연결하기**
-git remote add origin (내 깃허브 주소)
++ git remote add origin (내 깃허브 주소)
 
 **연결확인**
-git remote -v
++ git remote -v
 
 **오타난 경우**
-git remote rm origin
++ git remote rm origin
 ---
 **github에 변경사항 백업하기**
-git push origin master
++ git push origin master
